@@ -46,7 +46,7 @@ class _PlaygroundScreenState extends State<PlaygroundScreen> {
   @override
   void initState() {
     ipfs.client.init(
-      protocol: 'http',
+      scheme: 'http',
       host: '127.0.0.1',
       port: 5001,
       verbose: true,
