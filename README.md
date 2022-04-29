@@ -65,7 +65,7 @@
 
 ## About The Project
 
-This is the 1st unofficial Dart SDK for DeSo. 
+A clean and easy to use IPFS RPC Client for Dart & Flutter!
 
 ### EXAMPLE PROJECT SCREENSHOT
 
@@ -117,10 +117,10 @@ flutter run
 ## Usage
 
 ```dart
-// Import DeSo SDK
+// Import Package
 import 'package:ipfs_rpc/ipfs_rpc.dart';
 
-// Instantiate DeSo SDK Object
+// Instantiate IPFS Object
 final ipfs = IPFS();
 
 // Optional - Configuration
@@ -187,9 +187,7 @@ Project Link: [https://github.com/oliverbytes/ipfs_rpc](https://github.com/olive
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [DeSo](https://deso.org)
-* [BitClout](https://bitclout.com)
-* [DiamondApp](https://diamondapp.com)
+* [IPFS](https://ipfs.io)
 
 
 
