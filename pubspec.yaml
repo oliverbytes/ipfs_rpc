@@ -1,7 +1,7 @@
 name: ipfs_rpc
 description: An IPFS HTTP RPC Client for Dart & Flutter
 version: 0.0.1
-homepage: https://github.com
+homepage: https://github.com/oliverbytes/ipfs_rpc
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
